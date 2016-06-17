@@ -435,7 +435,7 @@ margin-left:80px;
     bottom:140px;
     left:0;
     z-index:10;
-    background: red;
+    /*background: red;*/
     opacity: 0.1;
     font-size: 16px;
     text-align: center;
@@ -616,7 +616,7 @@ opacity: 0.6;
 .tu-a{
   height:377px;
   width:298px;
-  background: red;
+  /*background: red;*/
   float:left;
   margin-right: 5px;
 }
